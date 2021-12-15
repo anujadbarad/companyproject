@@ -1,0 +1,6 @@
+1. What command line interface instructions are required to create a django project called
+‘company’ and application called ‘staff’?
+-  django-admin.py startproject company
+
+-  python3 manage.py startapp staff
+
